@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing Web and android applications.
 - 🎓 &nbsp; Studying Information Technology at NIT Allahabad.
-- 🌱 &nbsp; Intrested in Web and android developmenet,competitive coding and Object Oriented Programming.
+- 🌱 &nbsp; Interested in Web and Android developmenet,competitive coding and Object Oriented Programming.
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham12022002&layout=compact&show_icons=true&theme=radical">
